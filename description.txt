@@ -1,0 +1,15 @@
+Judgement is a mod planned to be a huge content adding mod!
+
+Current content:
+2 new types of pre-hardmode ore, which requires a crimtane/corruption pick or higher to mine.
+Nanestine ore: used to create nanestine armor for range and melee, and also tools.
+Valiotite ore: used to create Valiotite armor for mage and summoner, and also tools.
+
+Both ores glows in the dark, Nanestine glowing green and Valiotite glowing purple.
+
+Code:
+- Axurliz
+
+Sprites:
+- Axurliz
+- Decon
